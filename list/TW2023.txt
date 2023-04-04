@@ -1,5 +1,5 @@
 台灣綜合,#genre#
-日本台, https://epg.pw/stream/ff96f596b1a7da9ce24863f871ed925a5a0b568bd2347ef87e665da2556d94e2.m3u8
+日本台,https://epg.pw/stream/ff96f596b1a7da9ce24863f871ed925a5a0b568bd2347ef87e665da2556d94e2.m3u8
 三立都會台,mitv://generationnexxxt.com:19806/01fb6b0961e241a48250f648957df30a
 東森綜合,zlive://173.208.209.114:7719/639600a617afdb52d5a9ae5edc193fdf
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
