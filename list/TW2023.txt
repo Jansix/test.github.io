@@ -145,7 +145,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 鏡新聞Mnews,mitv://generationnexxxt.com:19806/a01b325f38fd4a10832c1fd87606cd0b
 中視新聞,zlive://173.208.209.114:7719/55d20bb39700a1fa14becb367ad31b37
 華視新聞資訊台,zlive://173.208.209.114:7719/a305a74b1294ab1c6a43056cda3c913f
-民視新聞台,zlive://173.208.209.114:7719/ba2496e9af40f22a3f6e72b59a4e4994
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,mitv://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345
 三立財經新聞,zlive://173.208.209.114:7719/7046807cc2f302c3c89e892dee7c97d2
