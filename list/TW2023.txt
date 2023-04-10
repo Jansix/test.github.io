@@ -3,8 +3,9 @@
 三立都會台,mitv://generationnexxxt.com:19806/70d008f68fd640c3978904f392a2938e
 東森綜合,zlive://173.208.209.114:7719/639600a617afdb52d5a9ae5edc193fdf
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-衛視中文台,http://220.134.196.147:9554/http/116.50.42.18:8081/hls/62/804/ch05.m3u8
-衛視中文台,
+衛視中文台,http://220.134.196.147:9554/index.m3u8
+衛視中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
+衛視中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 中天綜合,zlive://173.208.209.114:7719/055f58be1a9918a65899f72b236c342a
 中天綜合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合,http://2023.stream-link.org/playlist/cti_zh.flv
@@ -110,9 +111,16 @@ TVBS綜合,zlive://173.208.209.114:7719/fbcd476a413272ab369eb15ed0a6913a
 TVBS綜合,http://2023.stream-link.org/playlist/tvbs.flv
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
+TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
+TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,zlive://173.208.209.114:7719/f025fd26c0953b8931be3d29ab7a4a8c
-TVBS新聞,mitv://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941622
+TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
+TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=vFR5CkmzbA
 東森新聞台,mitv://generationnexxxt.com:19806/43b3b02013504e6cbe091a5f65bbd937
 東森LIVE,zlive://173.208.209.114:7719/8d7e905f7702d188c33334b384a381e5
 東森LIVE,zlive://173.208.209.114:7719/31559e246f7181f77750161849299d34
@@ -131,6 +139,9 @@ TVBS新聞,mitv://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a
 壹電視新聞,mitv://generationnexxxt.com:19806/a99d04ecdbc04aea952c4041fa9ce7be
 年代新聞,zlive://173.208.209.114:7719/02be79ee3cab3d5bd26febc72f552262
 年代新聞,mitv://generationnexxxt.com:19806/d24c3d264f5042cb9797a1870d13a076
+年代新聞 HD,http://220.134.196.147:9517/index.m3u8
+年代新聞 HD,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
+年代新聞 HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 鏡新聞Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡新聞Mnews,mitv://generationnexxxt.com:19806/a01b325f38fd4a10832c1fd87606cd0b
 中視新聞,zlive://173.208.209.114:7719/55d20bb39700a1fa14becb367ad31b37
@@ -142,6 +153,7 @@ TVBS新聞,mitv://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a
 三立財經新聞,zlive://173.208.209.114:7719/eed57291cb77e08ce4c1a29c1ff59916
 三立新聞,zlive://173.208.209.114:7719/cb578e93b0abf2b0f7a4af00edcd7ec3
 三立新聞,mitv://generationnexxxt.com:19806/1917f3fcc4c1464fb931cbda20bc4a18
+三立新聞LIVE,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 亞洲新聞,zlive://173.208.209.114:7719/03e5362cddc7577174d1af8c24ff71e5
 CNN新聞,zlive://173.208.209.114:7719/0d17a9fddd16689d2a53d429238ffb65
 BBC WORLD新聞,zlive://173.208.209.114:7719/c9343d24ca7dfc725eb60c920b3a2ffc
