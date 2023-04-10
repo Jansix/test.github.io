@@ -104,6 +104,7 @@ Afn,zlive://173.208.209.114:7719/8d0a81d3812a30a370208c49335cd50c
 愛自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 MTV頻道,zlive://173.208.209.114:7719/6c385b9e373a900d92e7ccb36f32cae1
+
 台灣新聞,#genre#
 中天新聞,zlive://173.208.209.114:7719/9011998207735731140a6271e559d549
 中天新聞,zlive://173.208.209.114:7719/6cbf5b995ccd82f89c12e860e5d734bb
@@ -111,9 +112,7 @@ MTV頻道,zlive://173.208.209.114:7719/6c385b9e373a900d92e7ccb36f32cae1
 TVBS綜合,zlive://173.208.209.114:7719/fbcd476a413272ab369eb15ed0a6913a
 TVBS綜合,http://2023.stream-link.org/playlist/tvbs.flv
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
+TVBS新聞(備),rtmp://119.81.124.89/sat/tv551
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
