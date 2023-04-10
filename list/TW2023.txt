@@ -1,6 +1,8 @@
 台灣綜合,#genre#
-
-三立都會台,mitv://generationnexxxt.com:19806/70d008f68fd640c3978904f392a2938e
+三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立都會台,http://220.134.196.147:9532/index.m3u8
+三立都會台,http://www.yshmzmc.top/gtjm.php?id=live1020
+三立都會台,https://youtu.be/4Uc00FPs27M
 東森綜合,zlive://173.208.209.114:7719/639600a617afdb52d5a9ae5edc193fdf
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 衛視中文台,http://220.134.196.147:9554/index.m3u8
@@ -24,7 +26,6 @@ TVBS精采台,mitv://generationnexxxt.com:19806/8885be3c87964472ae56321dd619461a
 八大第一台,mitv://generationnexxxt.com:19806/1d3a927c0c2a4f04afc648fc6456a245
 八大綜合台,mitv://generationnexxxt.com:19806/e3fa22c04e9149fc8174fb21bfcc45d7
 MOMO綜合,zlive://173.208.209.114:7719/a00ec56bb78fa0134c598ed8c57c39f2
-年代MUCH,zlive://173.208.209.114:7719/2fbc53ad4aa7862d2eae12e3f23ca543
 台視 HD,rtmp://119.81.124.89/sat/tv071
 台視 HD,zlive://173.208.209.114:7719/97e93f1b428135bfaabbdbb3902818df
 台視綜合台,zlive://173.208.209.114:7719/264093569ea4cd56fdd734c616f7a205
@@ -135,8 +136,7 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 台視新聞台,zlive://173.208.209.114:7719/afc42cc8d9bbb309851d11b3b64129fd
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視財經,zlive://173.208.209.114:7719/1ed95bd31b8fad3fa5c044350661e0b5
-壹電視新聞,zlive://173.208.209.114:7719/dcec33276869fa2f3de9ee55cae570ea
-壹電視新聞,mitv://generationnexxxt.com:19806/a99d04ecdbc04aea952c4041fa9ce7be
+壹新聞,http://220.134.196.147:9545/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
 年代新聞,zlive://173.208.209.114:7719/02be79ee3cab3d5bd26febc72f552262
 年代新聞,mitv://generationnexxxt.com:19806/d24c3d264f5042cb9797a1870d13a076
 年代新聞 HD,http://220.134.196.147:9517/index.m3u8
@@ -151,8 +151,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 民視新聞台,mitv://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345
 三立財經新聞,zlive://173.208.209.114:7719/7046807cc2f302c3c89e892dee7c97d2
 三立財經新聞,zlive://173.208.209.114:7719/eed57291cb77e08ce4c1a29c1ff59916
-三立新聞,zlive://173.208.209.114:7719/cb578e93b0abf2b0f7a4af00edcd7ec3
-三立新聞,mitv://generationnexxxt.com:19806/1917f3fcc4c1464fb931cbda20bc4a18
 三立新聞LIVE,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 亞洲新聞,zlive://173.208.209.114:7719/03e5362cddc7577174d1af8c24ff71e5
 CNN新聞,zlive://173.208.209.114:7719/0d17a9fddd16689d2a53d429238ffb65
