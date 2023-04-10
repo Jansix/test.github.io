@@ -3,7 +3,7 @@
 三立都會台,mitv://generationnexxxt.com:19806/70d008f68fd640c3978904f392a2938e
 東森綜合,zlive://173.208.209.114:7719/639600a617afdb52d5a9ae5edc193fdf
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-衛視中文台,mitv://generationnexxxt.com:19806/3488139c0c544695b496bf402ac5cea7
+衛視中文台,http://220.134.196.147:9554/http/116.50.42.18:8081/hls/62/804/ch05.m3u8
 衛視中文台,
 中天綜合,zlive://173.208.209.114:7719/055f58be1a9918a65899f72b236c342a
 中天綜合,http://107.151.203.111:2209/135/us50.php?id=ztz
