@@ -1,34 +1,835 @@
-TVpro230218,#genre#
-寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-壹新聞 HD,http://60.251.59.180:8501/.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8#https://ytm2.yuanhsing.cf/mnews.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8#https://ytm2.yuanhsing.cf/setmoney159.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://ytm2.yuanhsing.cf/FTVCP.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://ytm2.yuanhsing.cf/FTVCP.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://ytm2.yuanhsing.cf/ttvnewsview.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://ytm2.yuanhsing.cf/ttvnewsview.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8#https://ytm2.yuanhsing.cf/twctvnews.m3u8
-華視主頻道 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://218.32.47.179:18503/.m3u8#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#http://218.32.47.179:18503/.m3u8#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8#https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-華視CTS HD,https://ytm2.yuanhsing.cf/ctsprog.m3u8#https://ytm2.yuanhsing.cf/ctsprog.m3u8
-中天綜合 HD,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-八大第一 HD,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-東森戲劇 HD,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-緯來日本 HD,http://198.16.100.90:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-靖天電視台,https://ytm2.yuanhsing.cf/Faintv.m3u8
-我們這一家(卡通),http://cn-jsnt-ct-01-04.bilivideo.com/live-bvc/x988473/live_384415126_7322574/index.m3u8
-東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-大愛1台,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-唯心電視,http://124.238.99.44:808/hls/363/index.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-東森洋片 HD,http://107.151.203.111:2209/135/hk.php?id=dsypt#http://107.151.203.111:2209/135/hk.php?id=dsypt
-龍祥時代,http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-國家地理,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-
+#EXTM3U
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/98f6e8249687f3660aae9566cbaed3ad/76d61a35db48b096f5c24a72c4c382c5/20d3ad97742f3abe5b90acd3f24ef357/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/66ac6210c91222c947c6bae9abdec0a2/76d61a35db48b096f5c24a72c4c382c5/8ce65710a8266427691c20dfb4a75710/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/5a80513546b49c44426ccd4f18569c87/76d61a35db48b096f5c24a72c4c382c5/e3264b971be0e1aa3610c1e90eed5b24/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/1a180ea0cd7fd4d6c418798d2960e596/76d61a35db48b096f5c24a72c4c382c5/55b736b0223fb95194ae7ef3090c0b75/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/161ff40af60802833c6192b5df0c2fa8/76d61a35db48b096f5c24a72c4c382c5/13c90e640f457c4644a8a26cca7f6cac/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
+http://176868.cloud/78329715c317004bb658498663aa0c42/76d61a35db48b096f5c24a72c4c382c5/10cc767e44da3fcc55c08cb19a2897f9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",台視新聞
+http://176868.cloud/31a69c0d009df34f3626868ef55bf08a/76d61a35db48b096f5c24a72c4c382c5/e907a369cc500c71c19875c765fdab28/index.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",台視新聞
+http://176868.cloud/5080716d8719d76d4395a53f73fd3b54/76d61a35db48b096f5c24a72c4c382c5/68d50fbb8fa2cc32eb9289cddcd6126a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中視新聞
+http://176868.cloud/712841f0377eda955925093f98dd0bd6/76d61a35db48b096f5c24a72c4c382c5/24a09af2da14535802e8bfb024bc2c4e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中視新聞
+http://176868.cloud/1ec5305c9e17e9c0a82da3c86d94d548/76d61a35db48b096f5c24a72c4c382c5/30829deb60f970f28852118d96848ce5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中視新聞
+http://176868.cloud/2a903585edb08b52bc10d9f0d66dd25b/76d61a35db48b096f5c24a72c4c382c5/17d542405d217165ab42c13cc9027f05/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中視新聞
+http://176868.cloud/4f891dddfbc796826fbb26e9c54e1c49/76d61a35db48b096f5c24a72c4c382c5/64beac19474e9618efb940b747cdab16/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",壹新聞 HD
+http://176868.cloud/0f66cd1d9508e33836668f809a8695bf/76d61a35db48b096f5c24a72c4c382c5/84fc464312395523e32204b9c0cb714a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",壹新聞 HD
+http://176868.cloud/225f1ef1abc5df4aa76e12bdaa7300e6/76d61a35db48b096f5c24a72c4c382c5/b7e9d90e427aa45ca9091c55e0cd1b86/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
+http://176868.cloud/ed62aeba48d35049dfd2431eabec196e/76d61a35db48b096f5c24a72c4c382c5/5cd186fea8e426602f9ac06919903253/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞 HD
+http://176868.cloud/5289dd71103d79d135a1615b7f9474be/76d61a35db48b096f5c24a72c4c382c5/52b79bbac3ac54ff4906dd4f1cce284d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
+http://176868.cloud/68419b7e29747390af06428be536c3ce/76d61a35db48b096f5c24a72c4c382c5/f88bbfc5f7056ed35b4b61029dc3f7e2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
+http://176868.cloud/5e561f4b01b752f3a34cfd27aad74303/76d61a35db48b096f5c24a72c4c382c5/4abe0baa8f05c3db433e5a9dc245d28f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
+http://176868.cloud/537041d2f5eeb7951fa7eabcc27ddea7/76d61a35db48b096f5c24a72c4c382c5/30c976704776d2d7ee28cb8e681122ba/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
+http://176868.cloud/ea56157bccab2b2c59a3a0b940437a1b/76d61a35db48b096f5c24a72c4c382c5/442aa1ce6ecbe7bae03115a5b3a3b30b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+http://176868.cloud/ee95c1ffc4ba6a47794f918acd78b76e/76d61a35db48b096f5c24a72c4c382c5/a7e011ac2a3d6f89c0c31ce9e45fa837/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+http://176868.cloud/965b7d2bccbd207af702a0c3eca5bda2/76d61a35db48b096f5c24a72c4c382c5/0d252f0e9d09bef17313501f9b1539a6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+http://176868.cloud/a7fbb69d3eb63d4aafca2020c45e160e/76d61a35db48b096f5c24a72c4c382c5/ec8c0168309db8e5185b5d69bc063c76/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+http://176868.cloud/9e1fd2d4370581ccac555ab12b6904b4/76d61a35db48b096f5c24a72c4c382c5/a4eabfe0d8f2ec0ad81b2377663e81b7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",華視新聞資訊台
+http://176868.cloud/756bcfb9fb39ef6806d53109cd4b7d8b/76d61a35db48b096f5c24a72c4c382c5/de3f56fcc0b25b1d5a98b5b5c61b6e59/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",華視新聞
+http://176868.cloud/e76937e4fc981e907073bfbf0303ddea/76d61a35db48b096f5c24a72c4c382c5/36475e1d9b19ed7459362e70c6839d49/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",華視新聞
+http://176868.cloud/4d5da542bd595ac698389ece43826141/76d61a35db48b096f5c24a72c4c382c5/70c2937ff5ddd8fb9a64475f6932583c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",華視新聞
+http://176868.cloud/c599c712b057a9b682e3cdcb2063ac06/76d61a35db48b096f5c24a72c4c382c5/c87b3eef52b5bfd78b9310d34f6253bd/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",三立新聞
+http://176868.cloud/700125b2ba74f7f1a5ea01d0d102307f/76d61a35db48b096f5c24a72c4c382c5/e3d761541c925e720cf235a9c6dc313f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",三立新聞
+http://176868.cloud/a0b6450cfbc37a907d50029f7d0363a2/76d61a35db48b096f5c24a72c4c382c5/6fc3441951c201463e2448cc5205de6a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",三立新聞
+http://176868.cloud/66e6f07d1b2e56698e90e365bd995865/76d61a35db48b096f5c24a72c4c382c5/a20105c3affc0785f361cdd41dfb7be5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",三立新聞iNEWS
+http://176868.cloud/a2f1468fcecac669ec7d885a8d720c39/76d61a35db48b096f5c24a72c4c382c5/525003f1e23185beb045816e2cd73deb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",非凡新聞
+http://176868.cloud/c833fa9b402ae4a4e7f7cb04c2c875d3/76d61a35db48b096f5c24a72c4c382c5/7cbe8de1e434498d08f8fbfc0b5e193b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",非凡新聞
+http://176868.cloud/61bd345f5db262ce3ad14bf5dc51efb6/76d61a35db48b096f5c24a72c4c382c5/3f6ad95c3bb2e2b6e110f3de8e2b2e7a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",非凡新聞
+http://176868.cloud/dbb8b94304a9a31e9531c79beae91e52/76d61a35db48b096f5c24a72c4c382c5/0e6c92c5f95ba235ae661b460475d31f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",非凡新聞
+http://176868.cloud/2a32ab395d2e93a3137e2e9f73d84167/76d61a35db48b096f5c24a72c4c382c5/aba689d21d49753d28c2e4efbe3df89d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",年代新聞
+http://176868.cloud/8c3116b59b55d9a9b36c1282cf9acbb1/76d61a35db48b096f5c24a72c4c382c5/70d039b2ba10c47afd352657d851507c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",年代新聞
+http://176868.cloud/77175a3247f9c52191c57171c2531f5b/76d61a35db48b096f5c24a72c4c382c5/7596c5d18258779cc2476e162fc226cf/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台灣台
+http://176868.cloud/c85d82cf927f8a0b63ac186f50e660aa/76d61a35db48b096f5c24a72c4c382c5/27b53d35d9563c1e8da7f85857da1ef1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台灣台
+http://176868.cloud/d78afc3c110bf2603770d6dfadcf02a0/76d61a35db48b096f5c24a72c4c382c5/b975c7254b703577d03e72f41d492a9f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台灣台
+http://176868.cloud/3492abcf2686c92adfe4181713b7da87/76d61a35db48b096f5c24a72c4c382c5/e1504f5bca104464b515a5a30b12f933/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台灣台
+http://176868.cloud/167634123f79a87a685bd8219e636050/76d61a35db48b096f5c24a72c4c382c5/85f1fe094417617e2ec36d236b01906c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台
+http://176868.cloud/f450a8358394578d67c1cd18d4d31399/76d61a35db48b096f5c24a72c4c382c5/4a02048ecb0228f686c313456290156c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台
+http://176868.cloud/22e029c5ace482b9ef65e463b1fd3631/76d61a35db48b096f5c24a72c4c382c5/7d826ce3fb78512af28adfb436618dfb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台
+http://176868.cloud/870e9b871706b32cea8ff51679c5a80d/76d61a35db48b096f5c24a72c4c382c5/a73cfaeadbf4e4ff6047e8b4413d0a39/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台
+http://176868.cloud/16b803ceccd71f88cd4b4ff401887569/76d61a35db48b096f5c24a72c4c382c5/118b02cbc8eeacb800dda70b94723252/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇新聞台
+http://176868.cloud/0ba16e680a4e863d0ff47cc6a5ead0c5/76d61a35db48b096f5c24a72c4c382c5/434eca5a6de5280891aeb46925c5ad0e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",鏡新聞
+http://176868.cloud/2285b837a65c09d0cdf8271f1e21b13c/76d61a35db48b096f5c24a72c4c382c5/2cd0539cfab83d41abf71706846192da/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",鏡新聞
+http://176868.cloud/e4bfe8fc6bc4ebbc2bfc6149f3061e3a/76d61a35db48b096f5c24a72c4c382c5/f941945b14be8cbfdaea25964095ea0b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",鏡新聞
+http://176868.cloud/ecbafe9aff100060a5acc1491d98d4b9/76d61a35db48b096f5c24a72c4c382c5/99cb941d0cf58a53f4fa917e9ef4b74a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",CNN國際新聞台
+http://176868.cloud/b8de75a56ea5d55e91989b327b84db64/76d61a35db48b096f5c24a72c4c382c5/6e1d888ef797d894781b7bcf65a68c04/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",CNN頭條新聞台(HLN)
+http://176868.cloud/39c8fa922ec720743a4b4fc1b229b255/76d61a35db48b096f5c24a72c4c382c5/20aff7436409a28880db4fbdb4d8f170/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",NHK新聞資訊台
+http://176868.cloud/2c49f3ff926d8641a39fa253aed3ad97/76d61a35db48b096f5c24a72c4c382c5/cf816f261021bbb7fb9aa7a2b59bef95/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/b29d3cb4eeeac9c4496d8bea7beb0172/76d61a35db48b096f5c24a72c4c382c5/77370a7374eca4710ff8acbb1941c0b4/index.m3u8##http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/05c107ca126c2c39f217f5c32630c7fd/76d61a35db48b096f5c24a72c4c382c5/d7d0e0b7292d8cb02cde3c478948a618/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/2b0cd438a5a747d3f440e35b90083f72/76d61a35db48b096f5c24a72c4c382c5/2bec24bf65df94bf216079f891f1e129/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/10544e76950c01e427c44acc40eb728b/76d61a35db48b096f5c24a72c4c382c5/349eca62c9aeed1dd85381924137a6c2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/14a0f10d54a6dbe7475cfd923d69eb61/76d61a35db48b096f5c24a72c4c382c5/e6b0d35324cdfd4c9caebb3015133051/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS新聞台
+http://176868.cloud/aa66e5c4bc06d2996686df1c3416705e/76d61a35db48b096f5c24a72c4c382c5/1d08c9573f223d517943fd20c6bc0090/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS
+http://176868.cloud/5ce9619b635d7e66ad27408388502da9/76d61a35db48b096f5c24a72c4c382c5/4045688b8afd2c2d0d49f5c703500494/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS
+http://176868.cloud/5c433513c9b5ecebfb6424b2c810dc25/76d61a35db48b096f5c24a72c4c382c5/b8414af9103aa0657c103afe1a2388ad/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS
+http://176868.cloud/487a98da33bd2d910ab79f951160623a/76d61a35db48b096f5c24a72c4c382c5/b7ca89f12a6a8c7c89ee6399a4984d9a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",TVBS
+http://176868.cloud/9a9ce165b5eaede4377a3ecda6dc5908/76d61a35db48b096f5c24a72c4c382c5/544ec4e4933a0f559cca6d9a8dff9303/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森財經新聞台
+http://176868.cloud/44c78ef47e1a307f42fa53a8cd68c31f/76d61a35db48b096f5c24a72c4c382c5/0a4e6a2350622f501ea5baa7a3c511e0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森財經新聞台
+http://176868.cloud/811de7f8ee78c6147cb594ef89bdbaf2/76d61a35db48b096f5c24a72c4c382c5/3e21831ba5a68db380a8082350efacd9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森財經新聞台
+http://176868.cloud/1cb70797731ff9de71060009b13cef0c/76d61a35db48b096f5c24a72c4c382c5/369608df43903e0e0327b6fa6ba7c372/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森財經新聞台
+http://176868.cloud/11507f1a0a02b82ed2f755f00956d53e/76d61a35db48b096f5c24a72c4c382c5/fbf53c0971b3922d96260eee93bc6c37/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",東森財經新聞台
+http://176868.cloud/d5b1977dbe98e0cf6f31abbed6da3f19/76d61a35db48b096f5c24a72c4c382c5/3a17787e663eb53bd6938f01f5764659/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",台視財經台
+http://176868.cloud/4110b25cd5c8d312b47aec0a575ce98b/76d61a35db48b096f5c24a72c4c382c5/96e9a808f85e4389c4096224cd31640d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",台視財經台
+http://176868.cloud/5d58be78b60e7473968b6df70305c2df/76d61a35db48b096f5c24a72c4c382c5/7d10bcfed81d00e5ba6be4556281806c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇財經台
+http://176868.cloud/c7264985653a4bda917dd14fca5415af/76d61a35db48b096f5c24a72c4c382c5/a2d3237b0f013ca56886d9a1ebafa85e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",寰宇財經台
+http://176868.cloud/36a5bc7844e5471b94138725dad3c1e6/76d61a35db48b096f5c24a72c4c382c5/2071fb065b51982f94f53cd2166242c0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",非凡商業台
+http://176868.cloud/b9fa652c6089a4b661ff38ce9ef41a76/76d61a35db48b096f5c24a72c4c382c5/925e583a16ebd3535225145dec1e4695/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",Bloomberg TV
+http://176868.cloud/5f2fc400b17e17a9422abd67a5ab2a85/76d61a35db48b096f5c24a72c4c382c5/ee2b1baefcfe682b2ef2482061c1e918/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",SBN全球財經台
+http://176868.cloud/614300efd4e587663cbed13fc0cafdb4/76d61a35db48b096f5c24a72c4c382c5/a3a354df4b84efd2e27a0424a067af9b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",半島國際新聞台
+http://176868.cloud/f673ca32b0e2c8aa9e0753b4bd56f684/76d61a35db48b096f5c24a72c4c382c5/eeb3181dc0dfb79895b6313b527ff9f7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",半島國際新聞台
+http://176868.cloud/b89369f241cb12b1ed7894fed348f844/76d61a35db48b096f5c24a72c4c382c5/846532db057c5aa4bffdfde2b45cc6e8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",VOA美國之音
+http://176868.cloud/46e9ba5f86850c59e818416ef051e860/76d61a35db48b096f5c24a72c4c382c5/1b3f0caefc8a5551093a796af275e0db/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",VOA美國之音
+http://176868.cloud/475c2a1dbc4e1f4d89d32d88b9102950/76d61a35db48b096f5c24a72c4c382c5/d5989f9efdc9b536117c18cf4ee40228/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",CNBC Asia 財經台
+http://176868.cloud/f61aec0b9da6feacee6484a353366ca4/76d61a35db48b096f5c24a72c4c382c5/3f31fe45c82eddca4331c54df903eda2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",DW德國之聲
+http://176868.cloud/28fc6cf3261c1930aa542bd6c3b9de17/76d61a35db48b096f5c24a72c4c382c5/a9a023ae7b5795011e7d4849dcc7ae5d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",台視
+http://176868.cloud/d9bebc947fe7fc93ffc322cd40ae959b/76d61a35db48b096f5c24a72c4c382c5/df8bfbe2ee72efd80a0446d10ad0c706/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",台視
+http://176868.cloud/f35fc162e59b1991d644fe97ec53af4f/76d61a35db48b096f5c24a72c4c382c5/50988b5469900e6b522fbc8bdd2d126f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",台視
+http://176868.cloud/b3ba9d786a7a95359d51f332fa01db2e/76d61a35db48b096f5c24a72c4c382c5/cb2c012094fad4903e1ed53fcd5e7bc8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",台視綜合台
+http://176868.cloud/655619415daef77379369546589d3c37/76d61a35db48b096f5c24a72c4c382c5/5aac469720a857acea523d71bf1aa01c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視
+http://176868.cloud/8cbfcb0a8963fa11b84fa918c28e2164/76d61a35db48b096f5c24a72c4c382c5/ef2fbde30108030b1b6171ddbfe3dc73/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視
+http://176868.cloud/d4f91dcd99643fc1e6aac83d8accf2f8/76d61a35db48b096f5c24a72c4c382c5/25219f0f2d1fe291e178d521d9580bda/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視戲劇
+http://176868.cloud/59fc4d64b8aedaf1f041b0c385abf82c/76d61a35db48b096f5c24a72c4c382c5/1f11b7672e729b6cc59bb0789dbfcd4f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視戲劇
+http://176868.cloud/a4beee306796c58651ee34185e7c4c2c/76d61a35db48b096f5c24a72c4c382c5/9f2eee5b2add60fac135aacae6a1043e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視戲劇
+http://176868.cloud/de6856b5dea65824a8e5191faff2bed2/76d61a35db48b096f5c24a72c4c382c5/479d7175d215dfe743d5d40fc9588949/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",公視台語台
+http://176868.cloud/f15c738e68162449d0ef6f210a71f97a/76d61a35db48b096f5c24a72c4c382c5/12a7e166dad2eab96b8d2a0545dc025d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華視
+http://176868.cloud/4183e366fe47324c5755fa99f83dfe5e/76d61a35db48b096f5c24a72c4c382c5/ada030ef202c3443f022b299f7af6377/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華視
+http://176868.cloud/f0481cdd012ec2c1f91e5a6aa751f217/76d61a35db48b096f5c24a72c4c382c5/a6585e21a829bee5ce5937dce8d99a46/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華視
+http://176868.cloud/d8baf7835dcc281df8ecacb804e9ee8f/76d61a35db48b096f5c24a72c4c382c5/5334f7359e41f1382ffa491ad1d57c25/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華視
+http://176868.cloud/cb1ebd30d8022a30c8ef3c72867d547d/76d61a35db48b096f5c24a72c4c382c5/59cd4110717522ee56ec888a21bbefd0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華視無線台
+http://176868.cloud/661b93a3062339688c101d68cf90339f/76d61a35db48b096f5c24a72c4c382c5/e607e3f871d499701d936bf7e2619d38/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視
+http://176868.cloud/74eb25a14ddc6a4304818793cc708632/76d61a35db48b096f5c24a72c4c382c5/2aeb0a5a12cb94ded561bd74b839400a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視
+http://176868.cloud/3c5228f5e8d70db94aec4d3a40c8894b/76d61a35db48b096f5c24a72c4c382c5/d8b97e80609c4eb77369956012655543/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視
+http://176868.cloud/d3df83ef6ea196a8bb06d8881f2d246a/76d61a35db48b096f5c24a72c4c382c5/42be03a07d77b61167a017b134846407/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視
+http://176868.cloud/b9d277cb1de9017307e7fa13dec51d66/76d61a35db48b096f5c24a72c4c382c5/36cb1249b3bf0d0802d91aa0ea06ea13/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視
+http://176868.cloud/72e9f604b3af87cdfd427d4c00fa09e7/76d61a35db48b096f5c24a72c4c382c5/1fdbfca35bc6f8950b994fcb3d6fbc4b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視菁采台
+http://176868.cloud/d217776aa261817bb03c6512665a8386/76d61a35db48b096f5c24a72c4c382c5/f77aad12ca4526c400a4e0ce77a93f5e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視菁采台
+http://176868.cloud/1f4bfe3a73be44b7a111b638de8276f3/76d61a35db48b096f5c24a72c4c382c5/05d4067cf969ef27105a2cb702978b7e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視菁采台
+http://176868.cloud/1259a5980d48c278d171c4909e48bb50/76d61a35db48b096f5c24a72c4c382c5/09a4f35a0f3d818ce71d31c9aa6e2612/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視菁采台
+http://176868.cloud/3d7ae32f591f75b7a111d6b9d30a49b5/76d61a35db48b096f5c24a72c4c382c5/f3815aee347f4481a29ba61f68cb415d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視經典台
+http://176868.cloud/09f79ed149db58ff8536be395e5f9f81/76d61a35db48b096f5c24a72c4c382c5/71a89f2966ac8a932f9af7821dad6841/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視經典台
+http://176868.cloud/3da43852c4f1a786e3fa0e81a55c43bd/76d61a35db48b096f5c24a72c4c382c5/cd32f422ce00c728010721d230e99111/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視經典台
+http://176868.cloud/34b5c2164cf69ad268793e3fc1796226/76d61a35db48b096f5c24a72c4c382c5/522546ae089253daa002fd180dc57601/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中視無線台
+http://176868.cloud/381449debf047ca5838c709073c475d0/76d61a35db48b096f5c24a72c4c382c5/557d546ef7fad39e88d7ec8d9f9db1ed/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視
+http://176868.cloud/4df365863a0f5db989cb0f518323ef84/76d61a35db48b096f5c24a72c4c382c5/e9fb57c6fb98361c54f0c5602708ad10/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視
+http://176868.cloud/b54204e61714e98524c85380cc6fc1cb/76d61a35db48b096f5c24a72c4c382c5/6c9086730c91e2b57225bd9865a16238/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視
+http://176868.cloud/fb9ce81b467d352970b57ba23f16230c/76d61a35db48b096f5c24a72c4c382c5/648bb9db06879d9b7ae3d98d749e1478/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視
+http://176868.cloud/f856328f62e9d98aca58323214e647b5/76d61a35db48b096f5c24a72c4c382c5/6fc61513ffd91acbc8a8378631be0b2a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視無線台
+http://176868.cloud/29e4c0bee326135c520f3998e399b32c/76d61a35db48b096f5c24a72c4c382c5/f19d7793703c02b7f2445a337e228013/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視綜藝台
+http://176868.cloud/b76897fb06d6a693dc4bea5cc1f49521/76d61a35db48b096f5c24a72c4c382c5/cb16a02180f02dd3ad2c6c46697799b7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視綜藝台
+http://176868.cloud/8be3ac9c15de52594b9f7222c984e146/76d61a35db48b096f5c24a72c4c382c5/7e5db4b9b0dad4b9ab58408e35b051e1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視綜藝台
+http://176868.cloud/128105e959bd4f8484554573d9e94810/76d61a35db48b096f5c24a72c4c382c5/90a523ab6e5ce00c4162735fc96e6ec6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視綜藝台
+http://176868.cloud/6ec6e4c89559367fbd2d02a25b89f069/76d61a35db48b096f5c24a72c4c382c5/fa7bd0220f17a7445341ff40c4994b78/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視影劇台
+http://176868.cloud/3bbaa79757f33307dc2e16e9ac5aa972/76d61a35db48b096f5c24a72c4c382c5/509e0b4fae6433cd2fb52357c54a5d5f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視影劇台
+http://176868.cloud/2b6cfb40870f10ad4e3df28f6873f0e3/76d61a35db48b096f5c24a72c4c382c5/5f62744fb53df37582fc75ec9161a939/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視影劇台
+http://176868.cloud/c784bfaaac56aba125d2f5f635775eac/76d61a35db48b096f5c24a72c4c382c5/0c46f30f963ebd6873fd9b4f4b0e67ca/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視旅遊台
+http://176868.cloud/0bdbc7780e52dbed66d4d0b855e88c6c/76d61a35db48b096f5c24a72c4c382c5/449664b5d30f19a8cf555b5992c5b1b1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視旅遊台
+http://176868.cloud/a3d32e9c26f4817c4e1f56b42d573e9c/76d61a35db48b096f5c24a72c4c382c5/c9e09e4b7f11003debd001e3ff42e900/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視旅遊台
+http://176868.cloud/5c15720b821492ac87bdb6a4b86019da/76d61a35db48b096f5c24a72c4c382c5/7df9079917cb92c53d92c2c5f70f65fb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視台灣台
+http://176868.cloud/92b6af8916a00ea7d81e561f5b9c8bbb/76d61a35db48b096f5c24a72c4c382c5/785c168e9d91b722664c1bd853b6ac23/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視台灣台
+http://176868.cloud/e426de1775949ccb1b042f4585bd0c5f/76d61a35db48b096f5c24a72c4c382c5/01dc9cbb1bb00790c298a28b3c8e9a78/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視台灣台
+http://176868.cloud/b88eb0920ba2069e46f8dcc9c5b0b5c1/76d61a35db48b096f5c24a72c4c382c5/2802323f94267a8f85b25df71df9cac3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視台灣台
+http://176868.cloud/fd65fb1ba337cfd2facd8c2e82f33065/76d61a35db48b096f5c24a72c4c382c5/9308c244c61fac6dc4603fc72a7c02bf/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視第一台
+http://176868.cloud/f030f1a0a607f72dc6f5da0a73702a13/76d61a35db48b096f5c24a72c4c382c5/dd47dadefeb6ed447cfd356712e2625f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視第一台
+http://176868.cloud/4d8e3fb3eeb92d99a08db8bf4ef6a718/76d61a35db48b096f5c24a72c4c382c5/9a3e51e90db3107393200d4964a813a7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",民視第一台
+http://176868.cloud/27d65364c1aae60ef3ec22e23bd7086f/76d61a35db48b096f5c24a72c4c382c5/57fd315430bf074e9ffd9a3b8d9f233b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛電視
+http://176868.cloud/a229112e154277134410f8e4670f7e28/76d61a35db48b096f5c24a72c4c382c5/690ee53ca3e42658e61924030fe42a77/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛電視
+http://176868.cloud/5e052c5cd32ab5266b901e48db087ada/76d61a35db48b096f5c24a72c4c382c5/631e3447b09db67faaa5a2b4f28bac29/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛電視
+http://176868.cloud/e88825fcd85accf14e0e1899b6bf5011/76d61a35db48b096f5c24a72c4c382c5/835bce6614d68f5882d6b9fa97a5b07c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛一台
+http://176868.cloud/2c0c3ef5e6b83d21e01747eccfc446bb/76d61a35db48b096f5c24a72c4c382c5/3fbcf924c53eafae83b0654de1e1992d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛一台
+http://176868.cloud/771ca8adcad8dafa4e08b46c6f77a89b/76d61a35db48b096f5c24a72c4c382c5/dcd98ffda897fc63526c8a6e78491bb5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛二台
+http://176868.cloud/bdf51fc6a6a023e90fdeb6cca07ffd6d/76d61a35db48b096f5c24a72c4c382c5/e660c49a77d514d70ec5f1276f608ac6/index.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛二台
+http://176868.cloud/f33d80bc424c8997447b4ea841436b58/76d61a35db48b096f5c24a72c4c382c5/53c307fbc06af28fff626daa2b011e0b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛二台
+http://176868.cloud/eb1e2ccf7529a483953b5d377864c402/76d61a35db48b096f5c24a72c4c382c5/325a0b4bef7ce8c9a0eca1868acd1823/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛二台
+http://176868.cloud/10da4173d39b47ea3f05f5efa67de247/76d61a35db48b096f5c24a72c4c382c5/1ef56b35cf8b510e4722ab4bbe8042b6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",大愛二台
+http://176868.cloud/7f911861f1c0369f01b47a9198abb17f/76d61a35db48b096f5c24a72c4c382c5/00ecf8633304bac3b1edd784e4312733/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",客家電視台
+http://176868.cloud/06196897712b0997ab9f2f7270e19dab/76d61a35db48b096f5c24a72c4c382c5/6f2c955538b608ce3ca3dbe60a755610/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",客家電視台
+http://176868.cloud/0c16faa797262c0c106a00315e9d1d48/76d61a35db48b096f5c24a72c4c382c5/2cc6e7b1b6a1fa91af25f7f2c7280eca/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",客家電視台
+http://176868.cloud/255225e6ff2f87546c14f6a2cf7af4dd/76d61a35db48b096f5c24a72c4c382c5/7fd929768a03254a57cffef8a4e57e7e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",客家電視台
+http://176868.cloud/2afdce768d599f6ad94eaef4da432219/76d61a35db48b096f5c24a72c4c382c5/ec864b29c55326fb858ce81a5cd0279d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",原住民族電視台
+http://176868.cloud/27cfcb396fbd4679b8a7d9e9718f7077/76d61a35db48b096f5c24a72c4c382c5/873826869da613cd8e979bcefadee75b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS綜合台
+http://176868.cloud/9a50181ad0a09adcaf9b9f58721e8664/76d61a35db48b096f5c24a72c4c382c5/c1c4f6d086331fd185673e92e2701c2e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/cac24ee24148302001940368c204a9d3/76d61a35db48b096f5c24a72c4c382c5/8d958bdd188bd8e5228f423086852a3b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/4e0c58a350cbe7023397bd264ae6faae/76d61a35db48b096f5c24a72c4c382c5/4f0d4dc6d058c630bae6cfef9ec399be/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/31b4c0fb424e2122189038ca6ce683b6/76d61a35db48b096f5c24a72c4c382c5/f8a593c1521567c16a53afea81611086/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/84742f2ce8d7597d7d7261fec08454b5/76d61a35db48b096f5c24a72c4c382c5/8fc8681c481cc708bd309d4cae8593ac/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/7720f8cdececf8b1ddce51b15d410ff3/76d61a35db48b096f5c24a72c4c382c5/330702bd9b8cbc89f8d1f6dfd9491f44/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS歡樂台
+http://176868.cloud/049e1383c8bb0ae62fd13c97427ef873/76d61a35db48b096f5c24a72c4c382c5/1a24525ef5b1459f24b3a6733e92a254/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS精采台
+http://176868.cloud/2ce7eb0a21bd5b92ae774f7dd8645186/76d61a35db48b096f5c24a72c4c382c5/206123db417b360e50b251a51d9bb9fc/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS精采台
+http://176868.cloud/0d453395f70a5b1d30da1c56de6fc403/76d61a35db48b096f5c24a72c4c382c5/bedb3e53eecfc03dd9d7e179cd705f42/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS精采台
+http://176868.cloud/150685dacaeb311fc468834122d23d25/76d61a35db48b096f5c24a72c4c382c5/308acab20ea83cb4e5d9bd3ee68fba98/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS精采台
+http://176868.cloud/ff260542d3f12a9c34bd62c171cf6c45/76d61a35db48b096f5c24a72c4c382c5/7d843ee4b7b12df874779b8371fb5ee4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS綜藝台
+http://176868.cloud/9c03ea9843481cd8687e8584ec772c04/76d61a35db48b096f5c24a72c4c382c5/b0201edb88939d1d74fac54971fccc12/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS台劇台
+http://176868.cloud/b8dd8d387a62a75a762554c051a29565/76d61a35db48b096f5c24a72c4c382c5/b8e2bc4459eb722939a7669f1ec2025d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TVBS HD
+http://176868.cloud/e27092738c8764725af0e7783ed932b4/76d61a35db48b096f5c24a72c4c382c5/21a92aa7c9edd13003c654942ceec0da/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大綜合
+http://176868.cloud/14d2c449dca7b75f69a423b02fc8c9ce/76d61a35db48b096f5c24a72c4c382c5/b377b9057edded88791ae220d0b106f0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大綜合
+http://176868.cloud/5d9154dbc25af5d5e2e721274bff0b5b/76d61a35db48b096f5c24a72c4c382c5/6cc19ce955241ebbfb71123bd0f01eff/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大第一台
+http://176868.cloud/7846468b291f5988a2426217d94d77df/76d61a35db48b096f5c24a72c4c382c5/afcdf42d94e3a495c6f8b13192b0f03b/index.m3u8#http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大第一台
+http://176868.cloud/b851217b48258afafa774b8f37064d64/76d61a35db48b096f5c24a72c4c382c5/821abd7ab9832a0434b8e37750bcd72e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大戲劇台
+http://176868.cloud/77311b5d9789304161d25c15bffc004f/76d61a35db48b096f5c24a72c4c382c5/976696ab37365fc0d103e65f2d3161da/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大綜藝台
+http://176868.cloud/59954f1e686ab0ecd09bf81cf55b7515/76d61a35db48b096f5c24a72c4c382c5/d87bbf0f46fb7da07485429606ac121d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大綜藝台
+http://176868.cloud/324f816bc8118aabb0ab87959fd15ebf/76d61a35db48b096f5c24a72c4c382c5/9fb1e0e04c12258dd604c69148fc372a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大綜藝台
+http://176868.cloud/4327ece114c2bb7e192a19404e6ed92d/76d61a35db48b096f5c24a72c4c382c5/373fd32e9f9bd96c02264e774c7e816f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大精彩台
+http://176868.cloud/7d362835e20422fc3a7cadf7bdac0b97/76d61a35db48b096f5c24a72c4c382c5/84f63be9f823d4bb3f9789c7bf280b44/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大精彩台
+http://176868.cloud/abfe8f1fea6f0e75c13fd103f10f1953/76d61a35db48b096f5c24a72c4c382c5/371c1d97a110aa02a46768295052801e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大精彩台
+http://176868.cloud/e2a91d852714f0c461477d116b468884/76d61a35db48b096f5c24a72c4c382c5/ac70a5c4590b21aa4290d9558d20df90/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",八大娛樂
+http://176868.cloud/964dd01d5f3976fe39611d65cdbcc3a9/76d61a35db48b096f5c24a72c4c382c5/98d37d1de77ef414e1189d946c277149/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中天綜合
+http://176868.cloud/916438490f8f01e9e8677cad7f162ac9/76d61a35db48b096f5c24a72c4c382c5/64f4504696d5d9a67504a604f0eebbc4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中天綜合
+http://176868.cloud/c0cfebea2645a6e1d697daf6609717b2/76d61a35db48b096f5c24a72c4c382c5/217ab4b416841ac312b297269de7ee93/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中天娛樂
+http://176868.cloud/3a4c71b2d50e31210889b8938631bec2/76d61a35db48b096f5c24a72c4c382c5/fd5c9c70c9d8edc6112db41b464d694e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中天娛樂
+http://176868.cloud/7ae7fb629c74f73e9a42be6a1128c513/76d61a35db48b096f5c24a72c4c382c5/354093dcb9cb8859c3ab617fbc162ee4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",中天亞洲台
+http://176868.cloud/4bae1cc37a22c056b4497c6f08cbd3a1/76d61a35db48b096f5c24a72c4c382c5/78a09e1919e060fe65c464af04f255a0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",三立台灣
+http://176868.cloud/803b736d5d0fd7a3e98f78cebe7f8bf2/76d61a35db48b096f5c24a72c4c382c5/fd82eb4a424d17842209115d124d3eeb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",三立台灣
+http://176868.cloud/030e6e818161c233780550131df5a933/76d61a35db48b096f5c24a72c4c382c5/ec5f57fe8d05ded726bb709b878b8d8a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",三立都會
+http://176868.cloud/32ba8514383dd06ebc4fa27a35901dde/76d61a35db48b096f5c24a72c4c382c5/2ac6e5a441e962b1ef6d106b2a754097/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",三立都會
+http://176868.cloud/81d8a0d156da359d464580489f589fad/76d61a35db48b096f5c24a72c4c382c5/8b10a6e84ace13d830b1ba7dae18d29c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",三立綜合台
+http://176868.cloud/dfd4bb7ab9563ee3491c2d381cef09f8/76d61a35db48b096f5c24a72c4c382c5/0c0865b9f6524a8ac9facb98ebefb786/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來電影
+http://176868.cloud/7aee542fa318e6fb6ca27ce0664fbc09/76d61a35db48b096f5c24a72c4c382c5/d2b128395632dbd893e3fa0eb5bdf2e1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來電影
+http://176868.cloud/a6aae25a6301078c58adffa83d5f88db/76d61a35db48b096f5c24a72c4c382c5/3a3dc6abbfd332170c6bc976e4a9f6c0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來戲劇
+http://176868.cloud/6523ea8785f4fae3c2b9ddbfaaf53055/76d61a35db48b096f5c24a72c4c382c5/99297a230b5730a9084fb4180f83a4d7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來戲劇
+http://176868.cloud/3f7a68d6e6de9570651008a2e56ee595/76d61a35db48b096f5c24a72c4c382c5/5550ed499f41d608dd076d0b0e48015e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來育樂
+http://176868.cloud/ebcd94a40c3123e8d92c1508bd094864/76d61a35db48b096f5c24a72c4c382c5/f191cec94c0e88a38652e690dd2bb625/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來育樂
+http://176868.cloud/8718b181fe6a46358f689ee291420fa8/76d61a35db48b096f5c24a72c4c382c5/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來綜合
+http://176868.cloud/4e2cd52f0d19c4de3d034962e2ee9e4a/76d61a35db48b096f5c24a72c4c382c5/c6badb7d75538e50977d00f24b6d4f5f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來綜合
+http://176868.cloud/0c99e7a514f39ccd1f3224859fc91c23/76d61a35db48b096f5c24a72c4c382c5/d495f654245555cb883ad3e16e947f43/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來日本
+http://176868.cloud/53e83c19efa13d4e97d814f0411afa86/76d61a35db48b096f5c24a72c4c382c5/1732ebe3d0e561a76374cb17726c1f66/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來日本
+http://176868.cloud/7c8dcd5868fd7e02e2b111784e3f241d/76d61a35db48b096f5c24a72c4c382c5/d8b3cfd683df1c20d3187bb7b4932030/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來體育
+http://176868.cloud/d39b59ba1a725fac5e6daa786fe2ac76/76d61a35db48b096f5c24a72c4c382c5/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",緯來體育
+http://176868.cloud/9417fac0875ead6ddfaeae47047486c4/76d61a35db48b096f5c24a72c4c382c5/2f4bf601cdbdfafc86a66c3844671c35/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東風37
+http://176868.cloud/899d56569373a9550b10ad5e0ec516c7/76d61a35db48b096f5c24a72c4c382c5/d8af86d610751cd05c062c40fd4112c1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TLC旅遊生活
+http://176868.cloud/85afb780a6f6b58eee96b62969c66593/76d61a35db48b096f5c24a72c4c382c5/862a77aa33783e2c40a30643a3e3ecac/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",TLC旅遊生活
+http://176868.cloud/5cdfa26c6757c26f91f84b961a72dfc5/76d61a35db48b096f5c24a72c4c382c5/831ccae7ebca870636a2f888b3148b22/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",國興衛視
+http://176868.cloud/83e36310121c71686da3a2cc19e94c32/76d61a35db48b096f5c24a72c4c382c5/225da3b8ced8995db094a0ed5d858497/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",國興衛視
+http://176868.cloud/b245ec1e0d43119f0090e5259ca9f63a/76d61a35db48b096f5c24a72c4c382c5/892ed797907c157423c78e63abdbb873/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",星衛電影
+http://176868.cloud/1aa375cea0cb046484a7ebe097afe4fc/76d61a35db48b096f5c24a72c4c382c5/0255e0399a948882a13b0672fa6d334c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",衛視電影
+http://176868.cloud/d06a7d0c8d9022f28209ba282cf235e3/76d61a35db48b096f5c24a72c4c382c5/22911b145abf2b94d3cbe8b26a9e0098/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",衛視中文台
+http://176868.cloud/c9c653bc1e589d994e0259c0dec08bd2/76d61a35db48b096f5c24a72c4c382c5/34d0e051ca67d8e4041adef77a83fe1d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",衛視洋片
+http://176868.cloud/e0cd92f72353980f70139c47b79379e7/76d61a35db48b096f5c24a72c4c382c5/fd1e6edcb645d3c9823d47a3660963ac/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",金光布袋戲
+http://176868.cloud/bacbfcf05887404b51e0a4bf2db35884/76d61a35db48b096f5c24a72c4c382c5/1d78ff51798f48d2e8ff87d2009df24f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華戲劇
+http://176868.cloud/3a75441f9df2b3269e4df322c9041316/76d61a35db48b096f5c24a72c4c382c5/b2978c935f4b6e75622937385a3e0e80/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華戲劇
+http://176868.cloud/ce85519efecccec4a996074754cdf613/76d61a35db48b096f5c24a72c4c382c5/d032951999a61cd19e820bf3c174be6c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華戲劇
+http://176868.cloud/2ce811d812871b8cfd3d7ec4f6d56184/76d61a35db48b096f5c24a72c4c382c5/61905175552e39861d19656af841f3cb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華戲劇
+http://176868.cloud/66cc42791041a4dcecc28d80570e0519/76d61a35db48b096f5c24a72c4c382c5/93c7a50f689f3d6ebab73044193e7529/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華戲劇
+http://176868.cloud/233ab16a4a72d13654320f2b751644bd/76d61a35db48b096f5c24a72c4c382c5/6f8d468f988be24463c8bbe0b3ff56d2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華影劇
+http://176868.cloud/ec0130939106b97b57bea739a9c2d0d0/76d61a35db48b096f5c24a72c4c382c5/e0750af4089065afb7e0bce3852ab6d4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華電影
+http://176868.cloud/e4f16adc37ce7e5db61589ed4b9ee338/76d61a35db48b096f5c24a72c4c382c5/b24569eac4025b9357c7512de7b33c04/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華電影
+http://176868.cloud/144f6911138e8589325b25fb6b22cc48/76d61a35db48b096f5c24a72c4c382c5/914e86bad75604f6ec95711f0f971e8d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華電影
+http://176868.cloud/a6adb2a381872c117e195ed1e5530cf3/76d61a35db48b096f5c24a72c4c382c5/8a2e44154796c412be54ee5f3c4bd80f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華電影
+http://176868.cloud/470698427bdcde00b3949df7cf645943/76d61a35db48b096f5c24a72c4c382c5/7ed911d78f32930055bb4518fc613d8b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華電影
+http://176868.cloud/27f76f72f15f5536574f44d990389d6f/76d61a35db48b096f5c24a72c4c382c5/d42595adcbd47d6d45bded49ba59bb8c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華洋片
+http://176868.cloud/6028596a230f8bdf719b2baf8c242e93/76d61a35db48b096f5c24a72c4c382c5/9a8b7a33969a73b7d3a9284e0ec91de2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華洋片
+http://176868.cloud/de2b32a3a307ba19b390bb37f87c77e4/76d61a35db48b096f5c24a72c4c382c5/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華日韓台
+http://176868.cloud/f6561ff09259a7fbceb61d97034852ea/76d61a35db48b096f5c24a72c4c382c5/f70482ea86c730b5f2f004e69f0433a8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華日韓台
+http://176868.cloud/fae39e6707a68dc7432a9e982d0025b7/76d61a35db48b096f5c24a72c4c382c5/2195d2e950270b629f3b43ac767c1bd5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華日韓台
+http://176868.cloud/4afb31d0f16c1fcc6d73e2f0f7ac36b2/76d61a35db48b096f5c24a72c4c382c5/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華日韓台
+http://176868.cloud/9339764d082b48e8773bbbc7f9663497/76d61a35db48b096f5c24a72c4c382c5/c15446831ead1e08541b17d8882ae07f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華偶像台
+http://176868.cloud/9dcb0e11fee3b950a1e9df4dd7f6ffc0/76d61a35db48b096f5c24a72c4c382c5/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華偶像台
+http://176868.cloud/7df416b6aa93b970313d95852677d3c7/76d61a35db48b096f5c24a72c4c382c5/473d017e5ba0389164e1e2e6cc7ef083/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華偶像台
+http://176868.cloud/eded0241ad8dfaee58b5f7ee372dba2f/76d61a35db48b096f5c24a72c4c382c5/02918920cb5477da1e2ea69f2578bd8e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華偶像台
+http://176868.cloud/eaedb35d4c5c008ccce22abcb52cd10f/76d61a35db48b096f5c24a72c4c382c5/e18411db65aa0a0763fe2273a0dab5b3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華經典台
+http://176868.cloud/8219f9748cda4eceb7ce51c78f6fffa0/76d61a35db48b096f5c24a72c4c382c5/f9c559a85da709b2e5a3918ce31c8300/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",龍華經典台
+http://176868.cloud/5666da2578f69a84a3e532e355e9fa56/76d61a35db48b096f5c24a72c4c382c5/6cdd22c5203340bd2d0992abf4e5d9d7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森戲劇
+http://176868.cloud/2808f1a4b218b2385884923645cc08d3/76d61a35db48b096f5c24a72c4c382c5/314cf0271b6803995f893931d9030bed/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森戲劇
+http://176868.cloud/a6481580412be57670503a8378d07d4e/76d61a35db48b096f5c24a72c4c382c5/3376f2c961e40eba6cc94c36fa8b22c0/index.m3u8#http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森電影
+http://176868.cloud/3ae3252728244ec57ac7bce4ea230e5f/76d61a35db48b096f5c24a72c4c382c5/936cc9b4f5c57a3d4e559aa063b89fb9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森綜合
+http://176868.cloud/2af34078bc4437b80af46ee4748bc717/76d61a35db48b096f5c24a72c4c382c5/7f02b81eb2fb91a1f61f8118ce12128c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森綜合
+http://176868.cloud/698c8cd32861955c0922f6c8dbd1f1b5/76d61a35db48b096f5c24a72c4c382c5/7f8e77c3c97a24aac8242cda3093fa92/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森超視
+http://176868.cloud/774a12fcab5b1b7e37be42ac5a0aa73a/76d61a35db48b096f5c24a72c4c382c5/95a67e23363d75169db60873961b3a22/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森洋片
+http://176868.cloud/6827e708dacf4630c9c19132e80e5f4c/76d61a35db48b096f5c24a72c4c382c5/12447736998bd775f346418a79b7af81/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ANIMAX
+http://176868.cloud/1d96593ceed843fb3d36aba274cdd588/76d61a35db48b096f5c24a72c4c382c5/47c451e290ed5736f2508bcefa741a83/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBO
+http://176868.cloud/c7f30d24c15da234e99e17227976cfbe/76d61a35db48b096f5c24a72c4c382c5/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBOHits
+http://176868.cloud/383b92a27e4fc6e81f09286ddb760ec7/76d61a35db48b096f5c24a72c4c382c5/620c7020f97c0a00aba4398427b79075/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBOFamily
+http://176868.cloud/2aae6838328a62d05f79da25d6c0c8ca/76d61a35db48b096f5c24a72c4c382c5/0f2f178506cbb0d478d72d6e562eb801/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBOSignature
+http://176868.cloud/bd998dcb5f80d6ad18f7036fa4968b15/76d61a35db48b096f5c24a72c4c382c5/b8bdd6dab9a126dacc2430c596825824/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CINEMAX
+http://176868.cloud/88d8eb4f4eecbb0cc13a203f61c38e05/76d61a35db48b096f5c24a72c4c382c5/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",AXN
+http://176868.cloud/d898aa4e3cb83237d0d084dbc90ff6f1/76d61a35db48b096f5c24a72c4c382c5/27f0ff9b0c201213b664405e21c1acde/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Hellywood HD
+http://176868.cloud/771e01f281fc70b86f945cc87164d39d/76d61a35db48b096f5c24a72c4c382c5/3a363dbe8971ec9de33755ec15df91d9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",探索頻道
+http://176868.cloud/7eac760e6a7d2a28faba41620b2415a3/76d61a35db48b096f5c24a72c4c382c5/591be883f658dc834c9d089367332c46/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",JET綜合
+http://176868.cloud/baa1e44bf796fc27bfd057f145d1dfa1/76d61a35db48b096f5c24a72c4c382c5/8bd7504d00ea215d20e26ccd61195e58/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",亞洲旅遊台
+http://176868.cloud/bb915d490d9c90005e3f7d318ebc9846/76d61a35db48b096f5c24a72c4c382c5/be0d923b9c2426ef962e55da0b9850d3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",MOMO綜合台
+http://176868.cloud/1301fb1ae13dfdfd2e854996c2676863/76d61a35db48b096f5c24a72c4c382c5/629aafb7e638ae01526ec8a65d508187/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",人間衛視
+http://176868.cloud/ea4454f3d26a54cc6e554d47c3afa68a/76d61a35db48b096f5c24a72c4c382c5/f80de60f37260b99733fd7ef90be5bab/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",人間衛視
+http://176868.cloud/260686d381b6d2b627e120ec8618a89b/76d61a35db48b096f5c24a72c4c382c5/affac3a893ea76663c6c10a2a8ae4b4c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",人間衛視
+http://176868.cloud/f95de0ada9a2dd0ca90fe948b05afb48/76d61a35db48b096f5c24a72c4c382c5/bda11ccdf37f64c61724f46d8caa3442/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",動物星球
+http://176868.cloud/3fac4a925e7a4df54f38961114031985/76d61a35db48b096f5c24a72c4c382c5/206a64db121d01da6a9982c5e30012bd/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",BBC Earth
+http://176868.cloud/0e434aac7e7e163d16328fa392778f8a/76d61a35db48b096f5c24a72c4c382c5/e00133dc27c2aaae955604068b067933/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",BBC Earth(a)
+http://176868.cloud/9958086ab4a487ea012aac2d5783df34/76d61a35db48b096f5c24a72c4c382c5/3e9a4dc017c7db1b607518dee6d94d55/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Discovery EVE
+http://176868.cloud/7c58f28a251193cf4f1cf8c84866b5f7/76d61a35db48b096f5c24a72c4c382c5/37347c4afa57740e6f027ab7dc340fbe/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Discovery科學台(Science)
+http://176868.cloud/061a5465b66d45e843230ad10277bebb/76d61a35db48b096f5c24a72c4c382c5/741d65a085ebd44a706c60b245831603/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",BBC Lifestyle
+http://176868.cloud/c0b349e54115b56cefb0f84458bae82a/76d61a35db48b096f5c24a72c4c382c5/1270f241f89f9431a491fa8c7944ce95/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",BBC Lifestyle(a)
+http://176868.cloud/153fbe71b9c69e033ff8e5853c2df0c6/76d61a35db48b096f5c24a72c4c382c5/397dc244b7f97a4e995fe335194a5673/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Discovery DMAX
+http://176868.cloud/5b2cf2783bb0b92cef90cb7e01c4adea/76d61a35db48b096f5c24a72c4c382c5/a55e3c6f0d0cdd2e7c7f3a3c0dd89d46/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",BBC NEWS
+http://176868.cloud/f11ce1f138f0172f8d7d74d34d9a23bc/76d61a35db48b096f5c24a72c4c382c5/5885822c3c865809181a2a9e8eb0b300/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CBeebies
+http://176868.cloud/61dc0f5f2134a165828cbb9870f213e0/76d61a35db48b096f5c24a72c4c382c5/c43a9b8cf947387e1f6aabd33ec0cb00/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CBeebies(a)
+http://176868.cloud/3dc0129bfc847333652d79a4c5d32113/76d61a35db48b096f5c24a72c4c382c5/7123bbd0cfc9867a96c7f90d0764b2ed/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Dreamworks
+http://176868.cloud/83e653b6740179bafbaca7b2a7c3efb1/76d61a35db48b096f5c24a72c4c382c5/371516c6b242ab6d8e4eaebbb3f71d5d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",tvN
+http://176868.cloud/f39568b4ebb298cbad409ff93f19611f/76d61a35db48b096f5c24a72c4c382c5/2dc79e3a4be30764f45fe0cf1058c3b8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",tvN(a)
+http://176868.cloud/0f4ba5b3c8c376d98c13a47f621c3f2e/76d61a35db48b096f5c24a72c4c382c5/71582fc41bff875ccf283680a3698396/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HGTV居家樂活頻道
+http://176868.cloud/813f1797d7e03d8e663f284aecdcfdd2/76d61a35db48b096f5c24a72c4c382c5/c98e2602ba96a25000fa89726e3413d7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Discovery Asia
+http://176868.cloud/33361d1af289ee74f5623015d3b5f5a6/76d61a35db48b096f5c24a72c4c382c5/4e2746ecec3c50573383c95b9e6fe975/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ROCK Action
+http://176868.cloud/cde056a2c450787a5cb7cde151fa87ba/76d61a35db48b096f5c24a72c4c382c5/ab0a0858623c3bb23558b12135fe816b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達影劇台
+http://176868.cloud/16a72eeffbccc2b9eb52a4fbd138d977/76d61a35db48b096f5c24a72c4c382c5/913968fc66c580da809baff5bf9d8260/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達娛樂台
+http://176868.cloud/c40aa0e85268eecf0f976689c394662a/76d61a35db48b096f5c24a72c4c382c5/40ebfa3bee5bd888ab2802dbcf00fe14/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達娛樂台
+http://176868.cloud/7cfd960395eca2dbd447d81e9de03d0d/76d61a35db48b096f5c24a72c4c382c5/45b64c6846462df5b3c53f273c3e27f6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達娛樂台
+http://176868.cloud/ce5b1a3123e6d39ade6d18f53c18d505/76d61a35db48b096f5c24a72c4c382c5/4ad4afd954be2ea56bb1df6740786515/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達生活旅遊台
+http://176868.cloud/d2ffdb90462efdd7f0e13b25d485e2fb/76d61a35db48b096f5c24a72c4c382c5/07f3f830aa818b7ec98db3dff5190d6b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",愛爾達綜合台
+http://176868.cloud/8be6b1761c8f2c16f17042da1a339923/76d61a35db48b096f5c24a72c4c382c5/452414c18bdc43cb858d04ad7bfe71c9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CNEX紀實頻道
+http://176868.cloud/06c7893d6ad62e8470172fd50c9ff46f/76d61a35db48b096f5c24a72c4c382c5/1ad03625dd6c05fa5d1d47379501ebfa/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Travel Channel
+http://176868.cloud/c50bd335c84e2eba8cae1b53a45f7a70/76d61a35db48b096f5c24a72c4c382c5/6b6f0332ce073a0d5a973daf5d3bafd8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",EUROSPORT
+http://176868.cloud/fc095ce38bcf3be444f27062c6b7b60a/76d61a35db48b096f5c24a72c4c382c5/5f14bf9e3870da4b074c3b27b8055df9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",華藝MBC綜合台
+http://176868.cloud/fac2819e4636f594f9a90a0ad9891959/76d61a35db48b096f5c24a72c4c382c5/53a545936693869fa21a6c02918a3325/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ROCK Extreme
+http://176868.cloud/83e9bae87bfad3006541553350e0a357/76d61a35db48b096f5c24a72c4c382c5/7a86e18fb7039a1d21e55e98dd606825/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Warner TV
+http://176868.cloud/39228020f97cc62bc746db770c0b38f5/76d61a35db48b096f5c24a72c4c382c5/3320f42a658348027d77f738418cae84/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Asian Food Network亞洲美食
+http://176868.cloud/bd92c297c959bffd3ce2b58d62f80baa/76d61a35db48b096f5c24a72c4c382c5/7613a7b3ff4b6b7a7a17fecb9362816a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CARTOONITO
+http://176868.cloud/977ec44c6486175cb0f7dea8be45b132/76d61a35db48b096f5c24a72c4c382c5/711e25a9e558b652417afee319f76110/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Nick Jr
+http://176868.cloud/a7a9b75efc599ef12e01f844c381dcdc/76d61a35db48b096f5c24a72c4c382c5/3102cef90c9fccbe8d08213195eef436/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBLTV1台
+http://176868.cloud/bfc0a2f2a1200bc5376b1d0efaca37d5/76d61a35db48b096f5c24a72c4c382c5/64d48c26d0e3bc2e4750de9103c31c0a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",HBLTV2台
+http://176868.cloud/06fbd412dfd95cc3739972297b28a412/76d61a35db48b096f5c24a72c4c382c5/017948086caa7e02435c692bd9b2bc41/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",INULTRA
+http://176868.cloud/cefdd38ad8e427d10a55314b5c28b48d/76d61a35db48b096f5c24a72c4c382c5/1dd46afbddebba1187cb8c18fb472ab7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",amc最愛電影
+http://176868.cloud/ea41f6202c22e1e2481a9ffe7987480a/76d61a35db48b096f5c24a72c4c382c5/64bdf9a59495f9297e051a20c18a7eb7/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",CATCHPLAY電影台
+http://176868.cloud/aafd9063dba734cf6647a22791e83f95/76d61a35db48b096f5c24a72c4c382c5/8a9ab2e6f73869d1c08c269642634996/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",LiveABC互動英語頻道
+http://176868.cloud/d8abc8dff8805b018773f5c895e8c191/76d61a35db48b096f5c24a72c4c382c5/cbe1c3dfc6aeb0a52bbefcfd78610969/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ELTV生活英語台
+http://176868.cloud/8e9e04cfdf4baa5a7e9d9b6e9667f664/76d61a35db48b096f5c24a72c4c382c5/c3b9099e31491afe390826291d94e4fa/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",空中英語教學台
+http://176868.cloud/a94eba4ca201ece418107b2a73db7935/76d61a35db48b096f5c24a72c4c382c5/bfba66a3686106c0ac6f3633baefa73f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Davinci 達文西教學台
+http://176868.cloud/2ea7200ec43b3accc03507d26d760e01/76d61a35db48b096f5c24a72c4c382c5/230a0774c51f0ee3978078c13c704816/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Smart知識台
+http://176868.cloud/fcba2446d3460817f2e2f709a50dda9b/76d61a35db48b096f5c24a72c4c382c5/5d18d849e6fd193b59f2563b7e3c9e56/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",豬哥亮歌廳秀
+http://176868.cloud/578c1e96b9aee6aafc6ff097382a1fab/76d61a35db48b096f5c24a72c4c382c5/0133d3644ea711cf0c3618930c6565c1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",豬哥亮歌廳秀
+http://176868.cloud/49a080c0e17faa2ffa7115614ebeae82/76d61a35db48b096f5c24a72c4c382c5/738d978bef5c8f7e385a9a9554dc1b23/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",豬哥亮歌廳秀
+http://176868.cloud/1fdb330812a9e795506c6c8e31d99d09/76d61a35db48b096f5c24a72c4c382c5/0e9ebe05f003f6fa0f78caa9b8d26c35/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天日本台
+http://176868.cloud/95fcafa115344dacb25606bf17b20f6d/76d61a35db48b096f5c24a72c4c382c5/9930cd742929965b5e3b48c26c88c88f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天戲劇台
+http://176868.cloud/4426ece6c3b2af21960c656bf84e3dc8/76d61a35db48b096f5c24a72c4c382c5/3cf1bacf6f0cb6709914d314d5f3df4d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天映畫台
+http://176868.cloud/ca4b4f1f269daca29a2c6bcd28f53c8e/76d61a35db48b096f5c24a72c4c382c5/6f455e20716c7432bb77453aa0d8ddce/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天電影台
+http://176868.cloud/627938b76a0b850696296c53f576d36b/76d61a35db48b096f5c24a72c4c382c5/51a3fdf046c0454a91120738894bd560/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖洋戲劇台
+http://176868.cloud/6e0d9cb5a8a787d2be9c12ac329a51f8/76d61a35db48b096f5c24a72c4c382c5/cadc43266d5f25538b0cc702a0b7cbca/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天綜合台
+http://176868.cloud/53b5c4a6f2cbc47fd3692eaf95f21c68/76d61a35db48b096f5c24a72c4c382c5/8c925b3784dec3d9d26d36f739333d50/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天綜合台
+http://176868.cloud/863cb0c42751fc8b2a3469d8720d1f7f/76d61a35db48b096f5c24a72c4c382c5/661b3395b87a88ae0a16412cdf234b6d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天綜合台
+http://176868.cloud/e6ce5601d7795e1ff9462b0f51a0520a/76d61a35db48b096f5c24a72c4c382c5/530da9f6baa5ceb89fa8b315cd66d21b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天綜合台
+http://176868.cloud/c5f2f5b05f1ef69e5944c1a094092ffc/76d61a35db48b096f5c24a72c4c382c5/066c9de015011e6103c0f833a5f19fa6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天育樂台
+http://176868.cloud/bab15d96b93cd5ed1f77816a6d8e5c46/76d61a35db48b096f5c24a72c4c382c5/afd1bbb96282394253b4078c52b706cf/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天育樂台
+http://176868.cloud/0ae875dcdd2d2a80e6fbaf248e39b774/76d61a35db48b096f5c24a72c4c382c5/5f4bf7caf2ab91314a0e865ca703ea70/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天育樂台
+http://176868.cloud/78eed0d9895e506ccb31d442f1ad37ea/76d61a35db48b096f5c24a72c4c382c5/a493f0c2b4585086674c2732fb18a95e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天育樂台
+http://176868.cloud/73deefabcf2b31e8cf66a72c06c5539d/76d61a35db48b096f5c24a72c4c382c5/0035f74a9ff855920c62450e4fb0e52f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天歡樂台
+http://176868.cloud/0e006e4dfdb3d2873e86f68bf926f9cf/76d61a35db48b096f5c24a72c4c382c5/b8bd077d4a5d79eaf6d4d074fabafc5e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天資訊台
+http://176868.cloud/1c9caaaa409242f5a67e0e65a2f7b0e1/76d61a35db48b096f5c24a72c4c382c5/4912639e11aa37e6c756d7bd38f3d9ee/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天資訊台
+http://176868.cloud/1a9a2fd5bd2f4a94bd9ea5683ca85ddf/76d61a35db48b096f5c24a72c4c382c5/7620ca9d87c6db901239a45f3aab2775/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天資訊台
+http://176868.cloud/899c1f4f3d6d71f8eaa25552b3e97158/76d61a35db48b096f5c24a72c4c382c5/cd43d681d4d322abe9252d882bbe6ed5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天資訊台
+http://176868.cloud/883a13031d2268244cd5a76f04ed8e1b/76d61a35db48b096f5c24a72c4c382c5/40ff81881d967543d40a0844548a2388/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天國際台
+http://176868.cloud/f797c9aed01d3603acdf2f9d4300503c/76d61a35db48b096f5c24a72c4c382c5/6023e5e834e9c8104d067da073ec8f20/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天電影台
+http://176868.cloud/410f252e108582a24a1dea82a142a457/76d61a35db48b096f5c24a72c4c382c5/413cbb33d38442f508fbafc3f7b8d727/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天電影台
+http://176868.cloud/2f4d18817e8f6fd883407f5521e2360f/76d61a35db48b096f5c24a72c4c382c5/cb2279abd06b8572f4374027850f5af6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天戲劇台
+http://176868.cloud/a89793b30f5165e8eb7f2fafe78e699a/76d61a35db48b096f5c24a72c4c382c5/469363e6a60e607c1204cef6c2cc7e55/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天戲劇台
+http://176868.cloud/7287c1ac4e3c1e95b2d3bc677025f33b/76d61a35db48b096f5c24a72c4c382c5/9873750427f05a306a63c442c634b200/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天戲劇台
+http://176868.cloud/8839615e90447cf00dac74fbbb4f76b9/76d61a35db48b096f5c24a72c4c382c5/beecafad7d89eae31624ca159ba6dda0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天日本台
+http://176868.cloud/391b36e855075b8a2d5821b4fe060b8e/76d61a35db48b096f5c24a72c4c382c5/37cde0aefca46f5636aa6c2d5c25d5bb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天日本台
+http://176868.cloud/54f11d195b447bdd035cf3ecccd275b8/76d61a35db48b096f5c24a72c4c382c5/1f6feee6c9101b3e05fad56d15d05854/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天日本台
+http://176868.cloud/bd75bf85cc4f07c50d742e927d2810e5/76d61a35db48b096f5c24a72c4c382c5/6b3b1eb232f601ba6f1f0e0bfc2577ed/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Nice TV靖天歡樂台
+http://176868.cloud/94b6c15b293ad5cb2ba414715985f7de/76d61a35db48b096f5c24a72c4c382c5/69434d421cc142fbdb5c3b054b527290/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Nice TV靖天歡樂台
+http://176868.cloud/c2462555130652441e41644b3ae18bf2/76d61a35db48b096f5c24a72c4c382c5/3d9b8cda1366fdb8df4c20f0879d6aad/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Nice TV靖天歡樂台
+http://176868.cloud/f0ccd9085c7feda5beb8dbe3601a7697/76d61a35db48b096f5c24a72c4c382c5/3552b853776b86656b143ddc1a5f8eb5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",KLT-靖天國際台
+http://176868.cloud/1fc6330a5e4ab5859358124880e9df9a/76d61a35db48b096f5c24a72c4c382c5/19fbd643d1e5a5b4e22a14b2b11cc3c9/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",KLT-靖天國際台
+http://176868.cloud/9af4e4693ead875625cd5f8e599815eb/76d61a35db48b096f5c24a72c4c382c5/b95e8c320de25e131166df43380ee488/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",KLT-靖天國際台
+http://176868.cloud/b10bf2d81452bba8aa4c9d33dcc89d35/76d61a35db48b096f5c24a72c4c382c5/9382c7fd80206741dc78c8314bd65157/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天映畫
+http://176868.cloud/fbe7b3e04963eeb6c200bb41e54b852e/76d61a35db48b096f5c24a72c4c382c5/b5e0da11f044b38721a8f872ea60279d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天映畫
+http://176868.cloud/f509f88385451fa2446e17664771c880/76d61a35db48b096f5c24a72c4c382c5/f9e2fc0696a7eb02c5744e8afb11733b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖天映畫
+http://176868.cloud/ba5d59cd40b7bf73c0c7e961455391f3/76d61a35db48b096f5c24a72c4c382c5/bfe462175cd94c2c7be2e9baef8a5223/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ETtoday綜合台
+http://176868.cloud/b6fc27da381ef6402b649f2ffc2a6b5a/76d61a35db48b096f5c24a72c4c382c5/c6c55205cb1e33bf51feb01636175da2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",美食星球
+http://176868.cloud/d7513781418f64d673630b5f842c3369/76d61a35db48b096f5c24a72c4c382c5/542bc008129b47ec9b6b46b1cd3c9562/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖洋戲劇台
+http://176868.cloud/b98e8c4112b3d166a5686bfbd5ac2e17/76d61a35db48b096f5c24a72c4c382c5/e841e188a9b7319652c3d37272226068/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",靖洋戲劇台
+http://176868.cloud/f8f015d444a60baef086cc512048071a/76d61a35db48b096f5c24a72c4c382c5/0b861384ad5213f9c56f381944ad7e9b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",亞洲旅遊國際台
+http://176868.cloud/7e0d87017aba2f59ac313774b2db73aa/76d61a35db48b096f5c24a72c4c382c5/c5699f9a3bcaf1d7d57b23e4142d7f2a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",梅迪奇藝術頻道
+http://176868.cloud/0b424e5c2fede4e9b23b575cc1e0bcc6/76d61a35db48b096f5c24a72c4c382c5/1d0db702cb87a7a1d636554c96ad79ae/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",罪案偵查頻道
+http://176868.cloud/2800a2eddcd9dad3c2bd61e8e4dd1b10/76d61a35db48b096f5c24a72c4c382c5/e920938987d1cdb591c2a7194dcd79d2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",視納華仁紀實頻道
+http://176868.cloud/b706fd4c5c3d2d6ce847937578a4b85e/76d61a35db48b096f5c24a72c4c382c5/7d9ca88082c01e00eaa63074186f9571/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",影迷數位紀實台
+http://176868.cloud/d4c971e55c0382ba2c536822db3284fe/76d61a35db48b096f5c24a72c4c382c5/61f5681ee90cb6aa89d5b3b7bf3a99f4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ROCK Action
+http://176868.cloud/b506c4e7106b8734ddf9dbae30269dfb/76d61a35db48b096f5c24a72c4c382c5/5256ab208421f1adf715ef68534e4ee0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",采昌影劇台
+http://176868.cloud/7cf82673b13162b81dd6588c9d147697/76d61a35db48b096f5c24a72c4c382c5/5367340a4b2ce967f173719f3397d601/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",新唐人亞太台
+http://176868.cloud/ce55fddc3aabe4528ac390de4c0f2121/76d61a35db48b096f5c24a72c4c382c5/52741e970ef05d14da94911ed5d2cfa2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",ARIRANG阿里郎頻道
+http://176868.cloud/f3272ae98114c84c1793131cbc4d8b7a/76d61a35db48b096f5c24a72c4c382c5/51755ca82bf7f120a49633e829fb177d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Global Trekker
+http://176868.cloud/0a537142e35b09cf5321c958c75f1bbe/76d61a35db48b096f5c24a72c4c382c5/0a3c68bcf845f3510c4f6bcf6aafa5f4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",fun探索娛樂台
+http://176868.cloud/635faccd9cace97ca57118bb2535a0b2/76d61a35db48b096f5c24a72c4c382c5/034ef03a3a1d6d1dd24e63776330a51a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",幸福空間居家台
+http://176868.cloud/44dc6f8ee1362190a659199ed65c254b/76d61a35db48b096f5c24a72c4c382c5/d4d2553c7266d9df5426d4e63552a60e/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",Love Nature
+http://176868.cloud/cc9b5b3def64cbedaa92fd7c120f9d27/76d61a35db48b096f5c24a72c4c382c5/a12a0e94ebbb8a8d9f4880825b7c4879/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物1台
+http://176868.cloud/4412ba9e398a8d93339ccc35befc9d64/76d61a35db48b096f5c24a72c4c382c5/644f0a96c47a84339c240dac20cdfa60/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物1台
+http://176868.cloud/de2d5f07df6a8c8316cf681c73ecb362/76d61a35db48b096f5c24a72c4c382c5/19cdfcfc274b1b3a27829d39fb2bde8b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物二台
+http://176868.cloud/2453467a6a65a97bdc7249a32a1f98c1/76d61a35db48b096f5c24a72c4c382c5/ead756b9be05a1c3793538cecf7e1c0d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物二台
+http://176868.cloud/0961fabd27d9933839e5698667146785/76d61a35db48b096f5c24a72c4c382c5/ce044b58a3ab6317f999b3bc7bd9a824/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物三台
+http://176868.cloud/67ddda0cc4c695e5ff0bf38075c078d9/76d61a35db48b096f5c24a72c4c382c5/8ae3b1032590d854cca85435add31e7f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣綜合",東森購物四台
+http://176868.cloud/573956389af802343c8990338cc11820/76d61a35db48b096f5c24a72c4c382c5/7bbebbf20a5e6cfc827577d3687a138c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",ELEVEN SPORTS 1
+http://176868.cloud/e281056126682a4051a90dbd146ccb7c/76d61a35db48b096f5c24a72c4c382c5/19e0bb32856b9c9f0893a5f11be8a7b5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",ELEVEN SPORTS 2
+http://176868.cloud/6a626281731d5b04c9aa36056ed0ea3f/76d61a35db48b096f5c24a72c4c382c5/b40e37f4d7e1f0364fcc03abb65a87be/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育1台
+http://176868.cloud/b86461d8c481919acf235588d49bacb6/76d61a35db48b096f5c24a72c4c382c5/56fb12d0fa4d7bee5180993b775c94c4/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育2台
+http://176868.cloud/01f50664cfcde7c1bb4a93498e05df7d/76d61a35db48b096f5c24a72c4c382c5/95654ad47136150fbf432a216bbd8c3c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育3台
+http://176868.cloud/da88f29f18a74ea134a6840af72f902d/76d61a35db48b096f5c24a72c4c382c5/72ca8305d08d55730fee1568a364682d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育3臺
+http://176868.cloud/f25894f93c9aab33992e22a6142d45a8/76d61a35db48b096f5c24a72c4c382c5/d2bba30ffe10533e5538aaa14083950a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育4台
+http://176868.cloud/6fb280989f41aeab372c610d52cab72a/76d61a35db48b096f5c24a72c4c382c5/a9b5b3cb63e19bba7218f8c2f5114ba8/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育MAX1台
+http://176868.cloud/86f25d237d43cb58e28d7779bd479bb5/76d61a35db48b096f5c24a72c4c382c5/14e11f666ec339782e1f239a6d837aff/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育MAX2台
+http://176868.cloud/f645ac5384ead143a9c60c2365538650/76d61a35db48b096f5c24a72c4c382c5/d9ff5fa3ca9dae39176ff06b3a19043c/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育MAX3台
+http://176868.cloud/c90b53b7903f42861748d074904dc583/76d61a35db48b096f5c24a72c4c382c5/c1ce5700af5d9f1cdecf09b992471c79/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",愛爾達體育MAX4台
+http://176868.cloud/07ad36d9f6c9dfe59714f942b3c45c45/76d61a35db48b096f5c24a72c4c382c5/9340416a69d59e07df140d6c2126d672/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",智林體育台
+http://176868.cloud/49f6cb2300cf4e074cb430fd1255db45/76d61a35db48b096f5c24a72c4c382c5/2d33087328f72fd5399e812823a99973/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",智林體育台
+http://176868.cloud/961663ce191890734cf0451f746fcf3d/76d61a35db48b096f5c24a72c4c382c5/11713888e358b0122363fa8886ac50bb/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",智林體育台
+http://176868.cloud/662e9a877e3b654e9eff4442fa1c5d99/76d61a35db48b096f5c24a72c4c382c5/839805d0f4e3f868f15c98df8c15a6ee/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",時尚運動X
+http://176868.cloud/f64fa611744d7ba48b5f823a54fd7c10/76d61a35db48b096f5c24a72c4c382c5/01925f6772ea94aa73b1bac2eec3c8c5/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",時尚運動X
+http://176868.cloud/a90a08c9265fdd99cc144d3b9cc7f844/76d61a35db48b096f5c24a72c4c382c5/6524d226a46e8768a533c8c00a2958d0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動一台
+http://176868.cloud/472525d4b0d3f8b3834bd0d8dcce9b3b/76d61a35db48b096f5c24a72c4c382c5/421815939d959c7c322946bf75a5db71/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動一台
+http://176868.cloud/ec8268ce9e97ff3b0228081f483df249/76d61a35db48b096f5c24a72c4c382c5/387b6b9b7cab1134b6a649a7f38a30f1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動一台
+http://176868.cloud/fd19bcf0ef48ad51bfb54193dcf685cb/76d61a35db48b096f5c24a72c4c382c5/907f4ab859ff2d616b286d7a303f9519/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動一台
+http://176868.cloud/31ca9757e95a998192270ea97f86ae2d/76d61a35db48b096f5c24a72c4c382c5/5f5556eeab6197341a007f1b62969914/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動一台
+http://176868.cloud/0f122919baac2a3bd9ab4b510e6b4487/76d61a35db48b096f5c24a72c4c382c5/76bbd79e75ea7a301a40222961218f63/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球二台
+http://176868.cloud/8aa97a42a74bb930d7e222cb62ebcd41/76d61a35db48b096f5c24a72c4c382c5/196b44e93aba830834da9f8187d890a6/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動二台
+http://176868.cloud/2999bd2f93a82c37b4806b8f1336b9c5/76d61a35db48b096f5c24a72c4c382c5/4c60fa236627608936e328f8146d7803/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動二台
+http://176868.cloud/779088b5fa1f39b5bf730cf26e2a185f/76d61a35db48b096f5c24a72c4c382c5/a1c627327a64d899f726a5219f597c50/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯運動二台
+http://176868.cloud/01aa8303faf0fee6438208a807b4cfce/76d61a35db48b096f5c24a72c4c382c5/5bb99aae6a50850e997722e235655fa0/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯網球台
+http://176868.cloud/dbd67985c589dda8ed2a0867717e3093/76d61a35db48b096f5c24a72c4c382c5/09ced44a913bdc051c5b7f07b6b835f3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯網球台
+http://176868.cloud/f75f6e89aaa2e2e916a5e83f7b44909f/76d61a35db48b096f5c24a72c4c382c5/e8489e6dacf3e5fa634e40e04f188155/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯網球台
+http://176868.cloud/f404ae89a49620850a2e16feab3cec42/76d61a35db48b096f5c24a72c4c382c5/2e2fdf4b962b7a73e4442e1473273857/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯網球台
+http://176868.cloud/b0214aa0f676a0baad0539fb1ff8eb71/76d61a35db48b096f5c24a72c4c382c5/be0baee39c9f0ec6367b2cc84e968978/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球台
+http://176868.cloud/b6e6574b6e5bc7c52bb14f272a862d3c/76d61a35db48b096f5c24a72c4c382c5/f0a525d4b09393cfc33b432fc4079f14/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球台
+http://176868.cloud/fad7a841244ad65fbb7004f124295ed3/76d61a35db48b096f5c24a72c4c382c5/2534613c486f88bf63c0017717f28337/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球台
+http://176868.cloud/c88081b454b12329d3e0d30433005f69/76d61a35db48b096f5c24a72c4c382c5/0ef1e1726a2c1405e0b0f9ea3c4024bd/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球台
+http://176868.cloud/0765e1ba5e02b939c391465f84346fc2/76d61a35db48b096f5c24a72c4c382c5/1b283fbc82fc9633dd77af2cf09b2b37/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球二台
+http://176868.cloud/28ab40d592235832039b39bfdad70a14/76d61a35db48b096f5c24a72c4c382c5/14b0c22ef97d06ee385aa56b95036385/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯高球二台
+http://176868.cloud/04023625be61e74c13ac8d707f99cba7/76d61a35db48b096f5c24a72c4c382c5/feec3fa384f912907ba10cd95f6dd015/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限台
+http://176868.cloud/d557c57f7265c2a574891975c2b81d7a/76d61a35db48b096f5c24a72c4c382c5/eb8ebe476a3876298c74447551ee7d0b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限台
+http://176868.cloud/3574c8c13d2a662aae99ed036d8aec33/76d61a35db48b096f5c24a72c4c382c5/0b714c7963b636650fa8546aafadc406/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限台
+http://176868.cloud/1c799dafc08c7ad1287a43090505e842/76d61a35db48b096f5c24a72c4c382c5/31c42e3da8b5fef14f58fa162dbaf85f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限台
+http://176868.cloud/c0af3dc7926ee5755d8741f73087f094/76d61a35db48b096f5c24a72c4c382c5/16b5f1ad3ff0b211bf5bc552b19ca8be/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限二台
+http://176868.cloud/219e3d44e2ede2a462171d63ca5229c4/76d61a35db48b096f5c24a72c4c382c5/6d7c7aab03d8bd2577a565e34efdf4a1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯無限二台
+http://176868.cloud/bd7b51293dc1b125b623d638fb762369/76d61a35db48b096f5c24a72c4c382c5/2251911ea876bc48faf8e010a9a37fc3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯魅力
+http://176868.cloud/0183815ddda6b845b25e553610f237b3/76d61a35db48b096f5c24a72c4c382c5/c5657f3f7d6a8faba2bba83d6b4e9821/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯魅力
+http://176868.cloud/4a81ff942a0b61b7909af4f3326c55a3/76d61a35db48b096f5c24a72c4c382c5/ff910bb4763d8795f250070bfad10289/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯魅力
+http://176868.cloud/257d6577d8b247e78af26db9f5640bb0/76d61a35db48b096f5c24a72c4c382c5/fd2bc95e6c26bf6156da85e4f48f0f47/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",博斯精彩賽事
+http://176868.cloud/04bfdf8333b7b39a63a5892bd3957418/76d61a35db48b096f5c24a72c4c382c5/f4bf62de903768106d232c8f5199df75/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",麥卡貝運動頻道
+http://176868.cloud/1905680365919a8d32f3313eebd4505c/76d61a35db48b096f5c24a72c4c382c5/4699fc736bf028c078faa80562f28fc3/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",麥卡貝運動2台
+http://176868.cloud/dbf7e248216f9943188c6ef7a98866bd/76d61a35db48b096f5c24a72c4c382c5/2809394f757b18d05ca4d48dbe835254/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",麥卡貝運動3台
+http://176868.cloud/9aaf10d4479a84115856be9763823c3e/76d61a35db48b096f5c24a72c4c382c5/1e65c0686d33ed45749ebdfe6b9bd9fa/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",Trace Sport Stars
+http://176868.cloud/56286ebb026a3f3463c204cf68bb4b19/76d61a35db48b096f5c24a72c4c382c5/2f135a26a98462b70e22a8be52b8a83d/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",Pace Sport
+http://176868.cloud/a9eb709fea90affa3dfb7c75f3f1bc4c/76d61a35db48b096f5c24a72c4c382c5/be055d5c9de0b02b4adac9bd0a3cc125/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",TRACE Sport Stars
+http://176868.cloud/2d892b76afc648fe8293aab8211164ec/76d61a35db48b096f5c24a72c4c382c5/2edbd89c28cf2f74175b90250adc175f/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",TRACE Sport Stars
+http://176868.cloud/c9a6881ecbd49580bc25e35416ac378e/76d61a35db48b096f5c24a72c4c382c5/1fd4d94788aeb8730aad96916b2b1f5a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",車迷TV
+http://176868.cloud/7ebad0427ea850a32bee2a3c9ae091d2/76d61a35db48b096f5c24a72c4c382c5/c86d5561ee30344c19438095acf7c5f1/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",GINX Esports TV
+http://176868.cloud/415bcf39dc5f5afa2f3cf78040156f3a/76d61a35db48b096f5c24a72c4c382c5/cff323da49149a9898165ba6a3b3c0df/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",GINX Esports TV
+http://176868.cloud/516c6f68cf16e7f59c9c0139ec323c11/76d61a35db48b096f5c24a72c4c382c5/5078eb638093c02cf39c0794cf9af470/index.m3u8
+#EXTINF:-1 group-title="🇹🇼運動",GINX Esports TV
+http://176868.cloud/6dcc6dfe3f03313dde644f0dcb84c8bb/76d61a35db48b096f5c24a72c4c382c5/49306f21fb9be18ebc89695391a43235/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",龍華動畫
+http://176868.cloud/a4d6042e0b7521c0340eccc6707803bd/76d61a35db48b096f5c24a72c4c382c5/c9cd6f0cfe764cf343a608df9f576f28/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",東森幼幼
+http://176868.cloud/6c4e3f4ae9774d58aa07b201c6915610/76d61a35db48b096f5c24a72c4c382c5/9dd05d5f0160a055ef779b90c3531ba2/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",東森幼幼
+http://176868.cloud/e21daa3ee3221ced2b646ee8476eb354/76d61a35db48b096f5c24a72c4c382c5/6cea9898c79a851cc13c84b2dacb3d6a/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",CN卡通
+http://176868.cloud/7e16db9bb31d0cb7b69625d413141086/76d61a35db48b096f5c24a72c4c382c5/136abb6a0a08cd58619b6f891a8e2614/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",CN卡通
+http://176868.cloud/75d50a7b3b687f509dc8734804c159a7/76d61a35db48b096f5c24a72c4c382c5/050a49e49bcca537e283a0c5a6b47721/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",MOMO親子台
+http://176868.cloud/36648825234501b711a032f7efd43fab/76d61a35db48b096f5c24a72c4c382c5/d078a7f33de856bc12aa38f366ae7a2b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",MOMO親子台
+http://176868.cloud/691580cd7c062c0b5b51337f9f3cf577/76d61a35db48b096f5c24a72c4c382c5/61f7c5b7a87246d55ca17ab1a3530514/index.m3u8
+#EXTINF:-1 group-title="🇹🇼卡通",MOMO親子台
+http://176868.cloud/597f44bc60649b54b3394c9035cc6ad0/76d61a35db48b096f5c24a72c4c382c5/4622e140f9ca5a787088d64f1fafadc2/index.m3u8
